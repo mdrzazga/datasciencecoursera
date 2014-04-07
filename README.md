@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for CourEra
+Repository for CoursEra
